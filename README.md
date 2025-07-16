@@ -1,1 +1,1 @@
-This project was built as part of my Web Development Internship at Prodigy InfoTech. It is a simple yet interactive Stopwatch Web Application using HTML, CSS, and JavaScript with essential functionalities.
+This project is a simple yet interactive Stopwatch Web Application built using HTML, CSS, and JavaScript. It includes essential functionalities such as start, stop, and reset, offering a smooth and responsive user experience.
